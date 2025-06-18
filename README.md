@@ -104,10 +104,10 @@ No build step required—Bun transpiles TS on the fly.
 
 📝 License
 
-MIT. Do whatever you like; a star is always appreciated ⭐.
+MIT.
 
 ⸻
 
 🙏 Credits
 
-Based on classic optimal-stopping analysis by Ferguson (1968) and many subsequent expositions. This Bun edition by you! Enjoy experimenting 🔬.
+Based on classic optimal-stopping analysis by Ferguson (1968) and many subsequent expositions.
