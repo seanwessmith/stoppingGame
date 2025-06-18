@@ -79,8 +79,6 @@ Each worker:
 
 subtotal = simulate(simCount, thresholds);
 parentPort.postMessage(subtotal);
-
-
 	3.	Aggregation
 The main thread collects subtotals, sums them, prints thresholds, mean payout, and elapsed time.
 
